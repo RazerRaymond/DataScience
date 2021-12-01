@@ -1,6 +1,4 @@
 # DataScience
-Relevant Course Work at Intro2Datascience @ WUSTL
-
 Notice: All relevant code are strictly for demonstration use. Please dont use it for any other
 business or academic purposes.
 
